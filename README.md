@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khemarint</h1>
 <h3 align="center">Junior Developer</h3>
+<img align="right" alt="coding" width="400" src="https://www.atlantapublicschools.us/cms/lib/GA01000924/Centricity/Domain/16791/blue_boy_typing_nothought.gif">
 
 - 🌱 I’m currently learning **Vue3 and Nuxt3**
 
