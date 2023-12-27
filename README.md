@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khemarint</h1>
-
+<h3 align="center">Junior Developer</h3>
 
 - 🌱 I’m currently learning **Vue3 and Nuxt3**
 
