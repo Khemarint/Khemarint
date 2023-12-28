@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Khemarint</h1>
-<h3">a pissonate in programming netowrking </h3>
-
-- 🌱 I’m currently learning **Vue3 and Nuxt3**
-- 📫 How to reach me **Khemrent25@gmail.com**
+<h3>Juunior Developer </h3>
+- 👨‍💻 Potential Knowledge: FullStack Developer || Networking || Cyber Security </br>
+- 🌱 I’m currently learning Vue3 and Nuxt3 </br>
+- 📫 How to reach me: Khemrent25@gmail.com </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
