@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Khemarint</h1>
-<h3>Juunior Developer </h3>
+<h3>Junior Developer </h3>
 - 👨‍💻 Potential Knowledge: FullStack Developer || Networking || Cyber Security </br>
 - 🌱 I’m currently learning Vue3 and Nuxt3 </br>
 - 📫 How to reach me: Khemrent25@gmail.com </br>
