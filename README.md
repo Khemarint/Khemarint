@@ -3,6 +3,7 @@
 - 👨‍💻 Potential Knowledge: FullStack Developer || Networking || Cyber Security </br>
 - 🌱 I’m currently learning Vue3 and Nuxt3 </br>
 - 📫 How to reach me: Khemrent25@gmail.com </br>
+- 👀 leisure: reading manga, watching movie, journaling.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
