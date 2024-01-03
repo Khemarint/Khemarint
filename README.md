@@ -3,7 +3,7 @@
 - 👨‍💻 Potential Knowledge: FullStack Developer || Networking || Cyber Security </br>
 - 🌱 I’m currently learning Vue3 and Nuxt3 </br>
 - 📫 How to reach me: Khemrent25@gmail.com </br>
-- 👀 leisure: reading manga, watching movie, listening music, blogging, learning new thing. </br>
+- 👀 Free time: reading manga, watching movie, listening music, blogging, learning new thing. </br>
 - ✍️ Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695" target="blank">Information Technology </a>
 
 <h3 align="left">Connect with me:</h3>
@@ -64,7 +64,8 @@
 </p>
  <p>
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fwindows-11%2Flogo-windows-11-icon-1024.png&f=1&nofb=1&ipt=636f03393f14ed956afbda79822699dc1571c9d1a7c95e4c2b691739870a81df&ipo=images" alt="Window" width="40" height="40"/> </a>   
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/768px-Kali-dragon-icon.svg.png?20211125065834" alt="linux" width="50" height="50"/> </a>
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemarint&show_icons=true&locale=en&layout=compact" alt="khemarint" /></p>
