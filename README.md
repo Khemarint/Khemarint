@@ -5,7 +5,7 @@
 - ☕ Reach out my Portfolio: https://khemarint.netlify.app/
 - 👀 Free time: reading manga, watching movies, listening to music, blogging, learning new things.
 - 📫 How to reach me: Khemarintphong@gmail.com
-- - ✍️ Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
+- ✍️ Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
 
 ## Connect with me:
 <a href="https://fb.com/khemarint phong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemarint phong" height="30" width="40" /></a>
