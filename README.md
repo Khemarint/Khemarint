@@ -48,10 +48,11 @@ Web Technologies:
 
 Other: 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
- <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" alt="git" width="40" height="40"/> </a>  
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/806104/89702233-b18b1480-d904-11ea-88e5-962f9689be08.png" alt="git" width="40" height="40"/> </a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1&ipt=d3e4e45b615b7da23e17f2e6bd9c28000aaf5856c376384ba5dc919c5756f0fb&ipo=images" alt="vscode" width="40" height="40"/> </a> 
 <a href="https:https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2020%2F08%2FVisual-Studio-Logo.png&f=1&nofb=1&ipt=fe44a5a8fd548ff6377b52c7be1c08564736e2d91938a32ef7763290b7508a8e&ipo=images" alt="VisualStudio" width="65" height="40"/> </a> 
 <a href="[https://www.microsoft.com/en-us/windows?r=1](https://www.netacad.com/courses/packet-tracer)" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhurbad.com%2Fwp-content%2Fuploads%2F2021%2F12%2FCisco-Packet-Tracer.png&f=1&nofb=1&ipt=252a0e013cdbdd07081652e86390f59eec9ccbe54b129450a86e360e858213d7&ipo=images" alt="Cisco" width="40" height="40"/> </a>   
+ <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" alt="git" width="40" height="40"/> </a>  
 
  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fwindows-11%2Flogo-windows-11-icon-1024.png&f=1&nofb=1&ipt=636f03393f14ed956afbda79822699dc1571c9d1a7c95e4c2b691739870a81df&ipo=images" alt="Window" width="40" height="40"/> </a>   
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
