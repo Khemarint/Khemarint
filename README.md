@@ -47,7 +47,7 @@ Web Technologies:
 ---
 
 Other: 
-
+ <a href="https://www.office.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Office-365-Emblem.png" alt="git" width="40" height="40"/> </a>  
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1&ipt=d3e4e45b615b7da23e17f2e6bd9c28000aaf5856c376384ba5dc919c5756f0fb&ipo=images" alt="vscode" width="40" height="40"/> </a> 
 <a href="https:https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1000logos.net%2Fwp-content%2Fuploads%2F2020%2F08%2FVisual-Studio-Logo.png&f=1&nofb=1&ipt=fe44a5a8fd548ff6377b52c7be1c08564736e2d91938a32ef7763290b7508a8e&ipo=images" alt="VisualStudio" width="65" height="40"/> </a> 
