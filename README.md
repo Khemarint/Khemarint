@@ -1,11 +1,13 @@
 # Hi 👋, I'm Khemarint
 ### Junior Developer 
 
-- 👨‍💻 Potential Knowledge: FullStack Developer || Networking || Cyber Security || Robotic 
+- 👨‍💻 Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security || Robotic 
 - ☕ Reach out my Portfolio: https://khemarint.netlify.app/
 - 📫 How to reach me: Khemarintphong@gmail.com
 - ✍️ Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
 - 👀 Free time: reading manga, watching movies, listening to music, blogging, learning new things.
+- 💪 Soft Skill: Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker.
+- 🕷️ Unique Skill: Could do things all alone, Quick, Quality, Patient, flexible.
 
 ## Connect with me:
 <a href="https://fb.com/khemarint phong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khemarint phong" height="30" width="40" /></a>
