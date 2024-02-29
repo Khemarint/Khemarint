@@ -1,7 +1,7 @@
 # Hi 👋, I'm Khemarint
 ### Future Young Hot Universe KINGS CEO Perfection Darkness.
 
-- Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security || Robotic || IA
+- Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security || Robotic || AI
 - Reach out my Portfolio: https://khemarint.netlify.app/
 - How to reach me: Khemarintphong@gmail.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
