@@ -1,7 +1,7 @@
 # Hi 👋, I'm Khemarint
 ### Junior Developer 
 
-- Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security || Robotic 
+- Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security || Robotic || IA
 - Reach out my Portfolio: https://khemarint.netlify.app/
 - How to reach me: Khemarintphong@gmail.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
