@@ -8,8 +8,9 @@
 - Free time: reading manga, watching movies, listening to music, blogging, learning new things.
 - Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
-- I'm Fucking Hot 🔥.
+- I'm Fucking Hot at art🔥.
 -  21 years old.
+-  my man calls me GODS.
 ## Connect with me:
 
 | | |
