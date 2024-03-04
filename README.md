@@ -17,7 +17,7 @@
 ## Join my community:
 | |
 |:---:|
-| <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="Wangster paradise" height="60" width="60"/> |
+| <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="https://discord.gg/mBvN4PH6yR" height="60" width="60"/> |
 
 ## Languages and Tools:
 
