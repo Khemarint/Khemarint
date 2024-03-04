@@ -1,16 +1,13 @@
 # Hi 👋, I'm Khemarint
 
 
-- Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security || Robotic || AI
+- Potential Knowledge: IT Support || FullStack Developer || Networking || Cyber Security 
 - Reach out my Portfolio: https://khemarint.netlify.app/
 - How to reach me: Khemarintphong@gmail.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
 - Free time: reading manga, watching movies, listening to music, blogging, learning new things.
 - Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
-- I'm Fucking Hot at art🔥.
--  21 years old.
--  my man calls me GODS.
 ## Connect with me:
 
 | | |
