@@ -25,21 +25,20 @@
 ## Languages and Tools:
 
 
-Software Development:
-
+SD:
 | C SHARP| JAVA | PYTHON | .NET |
 |:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | <img src="https://www.tigersoftwares.com/media/29ad0d87-24bb-450f-9d7e-14181df683c3/5icq2Q/TechStack/NETFramework.png" alt=".Net" width="60" height="40"/> |
 
 ---
-
-| HTML | CSS | Tailwind | JavaScript | TypeScript | Vue.js | Jest | Cypress | Laravel | PHP | MSSQL | MySQL |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> | <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="40" height="40"/> | <img src="http://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon-thumbnail.png" alt="mysql" width="40" height="40"/> |
+WD:
+| HTML | CSS | Tailwind | JavaScript | TypeScript | Vue.js | Jest | Cypress | Laravel | PHP | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> | <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="40" height="40"/> | <img src="http://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/> |
 
 ---
 
-Moble App development:
+MAD:
 | DART | KOTLIN | FLUTTER |
 |:---:|:---:|:---:|
 | <img src="https://static.vecteezy.com/system/resources/previews/012/697/302/non_2x/3d-dart-programming-language-logo-free-png.png" height="60" width="60" alt="Dart" /> | <img src="https://brandslogos.com/wp-content/uploads/images/large/kotlin-logo.png" height="60" width="60" alt="Kotlin" /> | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter" /> |
@@ -52,7 +51,12 @@ IDE:
 | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1&ipt=d3e4e45b615b7da23e17f2e6bd9c28000aaf5856c376384ba5dc919c5756f0fb&ipo=images" alt="vscode" width="40" height="40"/> | <img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" alt="Visual Studio" width="40" height="40"/> | <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="IntelliJ IDEA" width="40" height="40"/> |
 
 ---
+DB:
+| MSSQL| MYSQL |
+|:---:|:---:|
+| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon-thumbnail.png" alt="mysql" width="40" height="40"/> |
 
+---
 OS:
 | WINDOW | KALI LINUX | 
 |:---:|:---:|
