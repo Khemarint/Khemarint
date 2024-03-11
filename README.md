@@ -32,11 +32,10 @@ SD:
 
 ---
 WD:
-| HTML | CSS | Tailwind | JavaScript | TypeScript | Vue.js | Jest | Cypress | Laravel | PHP | 
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="40" height="40"/> | <img src="http://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/> |
+| HTML | CSS | Tailwind | JavaScript | TypeScript | Vue.js | Laravel | PHP |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vue js" width="40" height="40"/> | <img src="https://logospng.org/download/laravel/logo-laravel-icon-1024.png" alt="laravel" width="40" height="40"/> | <img src="http://pngimg.com/uploads/php/php_PNG18.png" alt="PHP" width="40" height="40"/> |
 
----
 
 MAD:
 | DART | KOTLIN | FLUTTER |
