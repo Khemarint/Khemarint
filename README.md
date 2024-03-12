@@ -11,6 +11,7 @@
 - Discord server: https://discord.gg/mBvN4PH6yR.
 - Art addiction.
 - 21 years old.
+- Language: Khmer Thai Chinese English.
 ## Connect with me:
 
 | META | TIKTOK |
