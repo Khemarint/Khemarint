@@ -13,9 +13,9 @@
 - 21 years old.
 ## Connect with me:
 
-| META | 
-|:---:|
-| <img src="https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_1280.png" alt="Meta" height="30" width="40"/> |
+| META | TIKTOK |
+|:---:|:---:|
+| <img src="https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_1280.png" alt="Meta" height="30" width="40"/> | <img src="https://iconape.com/wp-content/files/fd/121669/svg/tiktok-logo-tik-tok-logo-icon-png-svg.png" alt="TIKTOK" height="30" width="35"/> |
 
 ## Join my community:
 | DISCORD |
