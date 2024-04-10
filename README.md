@@ -53,9 +53,9 @@ DB:
 
 ---
 OS:
-| WINDOW | KALI LINUX | UBUNTU |
-|:---:|:---:|:---:|
-| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fwindows-11%2Flogo-windows-11-icon-1024.png&f=1&nofb=1&ipt=636f03393f14ed956afbda79822699dc1571c9d1a7c95e4c2b691739870a81df&ipo=images" alt="Windows" width="40" height="40"/> | <img src="https://ww2.freelogovectors.net/wp-content/uploads/2021/12/kali-logo-freelogovectors.net_.png?lossy=1&w=2560&ssl=1" alt="kali" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F15-154532_ubuntu-linux-logo-png-clipart.png&f=1&nofb=1&ipt=35771726c1691815673d66c5ba1872b53d95d70d9231a93e2f2850b35cc667cd&ipo=images" alt="Ubunto" width="40" height="40"/> |
+| WINDOW | UBUNTU |
+|:---:|:---:|
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogospng.org%2Fdownload%2Fwindows-11%2Flogo-windows-11-icon-1024.png&f=1&nofb=1&ipt=636f03393f14ed956afbda79822699dc1571c9d1a7c95e4c2b691739870a81df&ipo=images" alt="Windows" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F15-154532_ubuntu-linux-logo-png-clipart.png&f=1&nofb=1&ipt=35771726c1691815673d66c5ba1872b53d95d70d9231a93e2f2850b35cc667cd&ipo=images" alt="Ubunto" width="40" height="40"/> |
 
 ---
 Other Tools and Technologies:
