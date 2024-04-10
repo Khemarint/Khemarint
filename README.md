@@ -18,11 +18,6 @@
 |:---:|
 | <img src="https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_1280.png" alt="Meta" height="30" width="40"/> | 
 
-## Join my community:
-| DISCORD |
-|:---:|
-| <img src="https://static.vecteezy.com/system/resources/previews/018/930/604/original/discord-logo-discord-icon-transparent-free-png.png" alt="https://discord.gg/mBvN4PH6yR" height="60" width="60"/> |
-
 ## Languages and Tools:
 
 
