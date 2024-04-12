@@ -10,7 +10,7 @@
 - Art addiction.
 - 21 years old.
 - Language: Khmer Thai Chinese English.
-- MBTI: ENTJ.
+- MBTI: ENTJ/INFJ.
 ## Connect with me:
 
 | META | 
