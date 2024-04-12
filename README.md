@@ -7,7 +7,6 @@
 - Passion: reading manga, watching movies, listening to music, blogging, Gaming, learning new things, Farming, Cooking.
 - Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
-- Discord server: https://discord.gg/mBvN4PH6yR.
 - Art addiction.
 - 21 years old.
 - Language: Khmer Thai Chinese English.
