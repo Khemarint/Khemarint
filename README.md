@@ -1,7 +1,7 @@
 # Hi 👋, I'm Khemarint
 
 
-- Potential Knowledge: IT Support || Software Developer || Web developer || Mobile App developer || Networking || Cyber Security 
+- Knowledge: IT Support || Software Developer || Web developer || Mobile App developer || Networking || Cyber Security 
 - How to reach me: Khemarintphong@gmail.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
 - Passion: reading manga, watching movies, listening to music, blogging, Gaming, learning new things, Farming, Cooking.
