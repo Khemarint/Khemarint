@@ -40,9 +40,10 @@ MAD:
 ---
 
 IDE:
-| VSCODE | MSVS | INTELLIJ |
-|:---:|:---:|:---:|
-| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1&ipt=d3e4e45b615b7da23e17f2e6bd9c28000aaf5856c376384ba5dc919c5756f0fb&ipo=images" alt="vscode" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F1b6d695a-be0d-4aaf-920f-675585b5bb9c.png%3Fauto%3Dformat%26ixlib%3Dreact-9.0.3%26w%3D3524&f=1&nofb=1&ipt=f2551f166f013de90b0c3fecb121deb46d1a0427f79bb777a6e1ed778a08b699&ipo=images" alt="vstudio code" width="40" height="40"/> | <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="IntelliJ IDEA" width="40" height="40"/> |
+| VSCODE | MSVS | INTELLIJ | Android Studios 
+|:---:|:---:|:---:|:---:|
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.visualstudio.com%2Fassets%2Fimages%2Fcode-stable.png&f=1&nofb=1&ipt=d3e4e45b615b7da23e17f2e6bd9c28000aaf5856c376384ba5dc919c5756f0fb&ipo=images" alt="vscode" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgdm-catalog-fmapi-prod.imgix.net%2FProductLogo%2F1b6d695a-be0d-4aaf-920f-675585b5bb9c.png%3Fauto%3Dformat%26ixlib%3Dreact-9.0.3%26w%3D3524&f=1&nofb=1&ipt=f2551f166f013de90b0c3fecb121deb46d1a0427f79bb777a6e1ed778a08b699&ipo=images" alt="vstudio code" width="40" height="40"/> | <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="IntelliJ IDEA" width="40" height="40"/> | <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="IntelliJ IDEA" width="40" height="40"/> |
+
 
 ---
 DB:
