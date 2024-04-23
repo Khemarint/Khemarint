@@ -4,7 +4,7 @@
 - Knowledge: IT Support || Software Developer || Web developer || Mobile App developer || Networking || Cyber Security 
 - How to reach me: Khemarintphong@gmail.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
-- Passion: reading manga, watching movies, listening to music, blogging, Gaming, learning new things, Farming, Cooking.
+- Passion: reading manga, watching movies/aniem, listening to music, blogging, Gaming, learning new things, Farming, Cooking.
 - Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
 - Art addiction.
@@ -21,9 +21,9 @@
 
 
 SD:
-| C SHARP| JAVA | PYTHON | .NET |
-|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | <img src="https://www.tigersoftwares.com/media/29ad0d87-24bb-450f-9d7e-14181df683c3/5icq2Q/TechStack/NETFramework.png" alt=".Net" width="60" height="40"/> |
+| C SHARP| JAVA | .NET |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> | <img src="https://www.tigersoftwares.com/media/29ad0d87-24bb-450f-9d7e-14181df683c3/5icq2Q/TechStack/NETFramework.png" alt=".Net" width="60" height="40"/> |
 
 ---
 WD:
