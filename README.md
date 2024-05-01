@@ -8,7 +8,7 @@
 - Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
 - Art addiction.
-- 21 years old.
+- 19 years old.
 - Language: Khmer Thai Chinese English.
 - MBTI: ENTJ/INFJ.
 ## Connect with me:
