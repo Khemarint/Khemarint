@@ -4,7 +4,7 @@
 - Knowledge: IT Support || Software Developer || Web developer || Mobile App developer || Networking || Cyber Security 
 - How to reach me: Khemarintphong@gmail.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
-- Passion: reading manga, watching movies/anime/Series, listening to music, blogging, Gaming, learning new things, Farming, Cooking.
+- Passion: reading manga, watching movies/anime/Series, listening to music, blogging, Gaming, Farming, Cooking, Workout.
 - Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
 - Art addiction.
