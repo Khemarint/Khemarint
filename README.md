@@ -11,11 +11,6 @@
 - 19 years old.
 - Language: Khmer Thai Chinese English.
 - MBTI: ENTJ
-## Connect with me:
-
-| META | 
-|:---:|
-| <img src="https://cdn.pixabay.com/photo/2021/11/01/15/20/meta-logo-6760788_1280.png" alt="Meta" height="30" width="40"/> | 
 
 ## Languages and Tools:
 
