@@ -28,9 +28,9 @@ WD:
 
 
 MAD:
-| DART | FLUTTER |
-|:---:|:---:|
-| <img src="https://static.vecteezy.com/system/resources/previews/012/697/302/non_2x/3d-dart-programming-language-logo-free-png.png" height="60" width="60" alt="Dart" /> | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter" /> |
+| DART | FLUTTER | Firebase |
+|:---:|:---:|:---:|
+| <img src="https://static.vecteezy.com/system/resources/previews/012/697/302/non_2x/3d-dart-programming-language-logo-free-png.png" height="60" width="60" alt="Dart" /> | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter" /> |  <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" height="60" width="60" alt="flutter" /> |
 
 ---
 
