@@ -28,9 +28,9 @@ WD:
 
 
 MAD:
-| DART | FLUTTER | Firebase |
+| DART | FLUTTER | 
 |:---:|:---:|:---:|
-| <img src="https://static.vecteezy.com/system/resources/previews/012/697/302/non_2x/3d-dart-programming-language-logo-free-png.png" height="60" width="60" alt="Dart" /> | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter" /> |  <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png" height="60" width="60" alt="flutter" /> |
+| <img src="https://static.vecteezy.com/system/resources/previews/012/697/302/non_2x/3d-dart-programming-language-logo-free-png.png" height="60" width="60" alt="Dart" /> | <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/flutter-logo-5086DD11C5-seeklogo.com.png" height="60" width="60" alt="flutter" /> |  
 
 ---
 
@@ -42,9 +42,9 @@ IDE:
 
 ---
 DB:
-| MSSQL| MYSQL |
-|:---:|:---:|
-| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon-thumbnail.png" alt="mysql" width="40" height="40"/> |
+| MSSQL| MYSQL | SQLite |
+|:---:|:---:|:---:|
+| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon-thumbnail.png" alt="mysql" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62c46cd2a75b8945b1696713.png&f=1&nofb=1&ipt=ca425fbee466a40ec90a9d5a261007707bda22e3fafb12d8f1462da38df47834&ipo=images" alt="sqlite" width="40" height="40"/> |
 
 ---
 OS:
