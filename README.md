@@ -55,9 +55,9 @@ OS:
 ---
 Other Tools and Technologies:
 
-| GIT | POSTMAN | CISCO | VMWARE | OFFICE | 
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://user-images.githubusercontent.com/806104/89702233-b18b1480-d904-11ea-88e5-962f9689be08.png" alt="postman" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhurbad.com%2Fwp-content%2Fuploads%2F2021%2F12%2FCisco-Packet-Tracer.png&f=1&nofb=1&ipt=252a0e013cdbdd07081652e86390f59eec9ccbe54b129450a86e360e858213d7&ipo=images" alt="Cisco" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.qbssoftware.com%2Fimage%2Fcache%2Fcatalog%2Fqbs%2Fvmwarews-1000x1000.png&f=1&nofb=1&ipt=0c5b863d80c40a05058ad071094b64d3d79505d985578c35590ded3cba7f8430&ipo=images" alt="vmware" width="40" height="40"/> | <img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1590564134493-VZ6C2LYWP1AIA2E32CEC/Microsoft-Office-logo-2019.png" alt="Office365" width="40" height="40"/> 
+| GIT | POSTMAN | CISCO | VMWARE | OFFICE | XAMP |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> | <img src="https://user-images.githubusercontent.com/806104/89702233-b18b1480-d904-11ea-88e5-962f9689be08.png" alt="postman" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhurbad.com%2Fwp-content%2Fuploads%2F2021%2F12%2FCisco-Packet-Tracer.png&f=1&nofb=1&ipt=252a0e013cdbdd07081652e86390f59eec9ccbe54b129450a86e360e858213d7&ipo=images" alt="Cisco" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.qbssoftware.com%2Fimage%2Fcache%2Fcatalog%2Fqbs%2Fvmwarews-1000x1000.png&f=1&nofb=1&ipt=0c5b863d80c40a05058ad071094b64d3d79505d985578c35590ded3cba7f8430&ipo=images" alt="vmware" width="40" height="40"/> | <img src="https://images.squarespace-cdn.com/content/v1/540f5515e4b06c4e8629c108/1590564134493-VZ6C2LYWP1AIA2E32CEC/Microsoft-Office-logo-2019.png" alt="Office365" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62bdcf1274c0457826807f17.png&f=1&nofb=1&ipt=3ed059a3181a9324bf1c04bbd416725c7091fd60c6dd5b75cb3a3dfa1d93599b&ipo=images" alt="Office365" width="40" height="40"/> 
 
 
 
