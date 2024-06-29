@@ -42,9 +42,9 @@ IDE:
 
 ---
 DB:
-| MSSQL| MYSQL | SQLite |
-|:---:|:---:|:---:|
-| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon-thumbnail.png" alt="mysql" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62c46cd2a75b8945b1696713.png&f=1&nofb=1&ipt=ca425fbee466a40ec90a9d5a261007707bda22e3fafb12d8f1462da38df47834&ipo=images" alt="sqlite" width="40" height="40"/> |
+| MSSQL| MYSQL | SQLite | Firebase |
+|:---:|:---:|:---:|:---:|
+| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> | <img src="https://w7.pngwing.com/pngs/385/582/png-transparent-mysql-workbench-macos-bigsur-icon-thumbnail.png" alt="mysql" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.stickpng.com%2Fimages%2F62c46cd2a75b8945b1696713.png&f=1&nofb=1&ipt=ca425fbee466a40ec90a9d5a261007707bda22e3fafb12d8f1462da38df47834&ipo=images" alt="sqlite" width="40" height="40"/> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Ffirebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png&f=1&nofb=1&ipt=d38692017cd08beef9a5935c532b0160eb929bde4117c33693e83e6fd094acc4&ipo=images" alt="sqlite" width="40" height="40"/> |
 
 ---
 OS:
