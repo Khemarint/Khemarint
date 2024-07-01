@@ -5,7 +5,7 @@
 - How to reach me: KhemarintPhong@outlook.com
 - Read my blog here: <a href="https://wangster.notion.site/Information-Technologies-78afa214357643fba64f90689532a695?pvs=4" target="blank"><img align="center" />Information Technology</a>
 - Passion: Reading manga, Watching Movies/Anime/Series, Blogging, Gaming, Farming, Cooking, Workout.
-- Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Team leader, Problem solver, Management, Strategy Thinker, Coaching and Mentoring, Commitment.
+- Soft Skill: Self-learner, Self-worker, Hard-worker, Smart-worker, Problem solver, Management, Strategy Thinker, Coaching and Mentoring, Commitment.
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
 - Art addiction.
 - 19 years old.
