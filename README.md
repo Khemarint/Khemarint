@@ -9,7 +9,7 @@
 - Unique Skill: Could do things alone, Quick, Quality, Patient, Flexible, and Organizable.
 - Art addiction.
 - 19 years old.
-- Language: Khmer Thai Chinese English.
+- Language: Khmer Thai English.
 - MBTI: ENTJ
 
 ## Languages and Tools:
